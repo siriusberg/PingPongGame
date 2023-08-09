@@ -28,5 +28,11 @@ git clone https://github.com/siriusberg/PingPongGame
   ```
 - Customize the game settings, such as screen size, paddle speed, or ball velocity, by modifying the appropriate variables in the source code.
 
-
-  
+## Contributing
+Contributions, bug reports, and feedback are welcome! If you'd like to contribute to this project, please follow these steps:
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Make your changes and test them.
+4. Commit your changes with descriptive commit messages.
+5. Push your changes to your fork.
+6. Create a pull request to the original repository.
